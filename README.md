@@ -1,4 +1,6 @@
-# Performance-Evaluation-Asian
+# Performance Evaluation of Face encoding techniques: a case study on asian population
+# การประเมินประสิทธิภาพของเทคนิคการเข้ารหัสใบหน้า: กรณีศึกษาสำหรับชาวเอเชีย
+
 ขั้นตอนการติดตั้ง
 1. git clone โปรเจคนี้
 2. อัพโหลด ไฟล์ VGG_Model.ipynb และ FaceNet.ipynb ไปที่ https://colab.research.google.com/
