@@ -1,5 +1,10 @@
 # Performance Evaluation of Face encoding techniques: a case study on asian population  
-ชื่อภาษาไทย : การประเมินประสิทธิภาพของเทคนิคการเข้ารหัสใบหน้า: กรณีศึกษาสำหรับชาวเอเชีย
+ชื่อภาษาไทย : การประเมินประสิทธิภาพของเทคนิคการเข้ารหัสใบหน้า: กรณีศึกษาสำหรับชาวเอเชีย  
+การทดลองนี้อาศัยชุดข้อมูลจาก https://sites.google.com/site/asianfacedb/download  
+
+## โมเดลที่ใช้ในการทดลอง  
+1. ResNet50 และ SeNet50 อ้างอิงจาก https://github.com/rcmalli/keras-vggface
+2. FaceNet อ้างอิงจาก https://github.com/faustomorales/keras-facenet
 
 ## ขั้นตอนการติดตั้ง
 1. git clone โปรเจคนี้
@@ -8,10 +13,7 @@
 4. อัพโหลด โฟลเดอร์ VGG_Model และ FaceNet_Model ไปที่โฟลเดอร์ Face_Recognition
 5. run โปรเจคบน Google Colab
 
-## อาจารย์ที่ปรึกษา
-- อ.ดร.นภา		แซ่เบ๊
-
-## รายชื่อสมาชิกในกลุ่ม
-- นายชินธันย์		สุขแจ่ม		รหัสนิสิต 	61102010141
-- นายภูริปกรณ์	ศรียอด		รหัสนิสิต  	61102010158
-- นายจิรายุ		พรศิริอนันต์		รหัสนิสิต  	61102010420
+## สมาชิกในทีม
+- นายชินธันย์		สุขแจ่ม  Chinatan Sukjam
+- นายภูริปกรณ์	ศรียอด  Phuripakorn Sriyot
+- นายจิรายุ		พรศิริอนันต์  Jirayu Pornsirianun
