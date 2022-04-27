@@ -13,6 +13,10 @@
 4. อัพโหลด โฟลเดอร์ VGG_Model และ FaceNet_Model ไปที่โฟลเดอร์ Face_Recognition
 5. run โปรเจคบน Google Colab
 
+## ขั้นตอนการทำงาน
+![face](https://user-images.githubusercontent.com/49121721/165476517-1890dc27-63d6-42fe-a20e-a7363128c9ed.png)
+
+
 ## สมาชิกในทีม
 - นายชินธันย์		สุขแจ่ม  Chinatan Sukjam
 - นายภูริปกรณ์	ศรียอด  Phuripakorn Sriyot
